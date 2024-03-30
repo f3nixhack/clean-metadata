@@ -1,5 +1,7 @@
 Este programa es una interfaz gráfica de usuario (GUI) simple que permite al usuario seleccionar uno o varios archivos y eliminar sus metadatos. Aquí está el desglose paso a paso:
+
 ![Captura de pantalla_2024-03-30_10-32-48](https://github.com/f3nixhack/clean-metadata/assets/50671074/0672c5cf-aabb-47c5-9631-a139f10458d5)
+
 
 1. Se importan las bibliotecas necesarias:
    - `tkinter` para crear la interfaz gráfica.
