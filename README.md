@@ -25,3 +25,4 @@ Este programa es una interfaz gráfica de usuario (GUI) simple que permite al us
 6. Se inicia el bucle de eventos (`mainloop()`), que esencialmente mantiene la ventana abierta y escuchando eventos del usuario hasta que se cierra la ventana.
 
 En resumen, este programa proporciona una forma simple para que los usuarios seleccionen archivos y eliminen sus metadatos utilizando la herramienta `exiftool`, mostrando mensajes informativos sobre los cambios realizados.
+![WhatsApp Image 2024-04-11 at 13 00 30](https://github.com/f3nixhack/clean-metadata/assets/50671074/92a9cb48-36e8-4dd5-b28b-5a1fee2498fc)
